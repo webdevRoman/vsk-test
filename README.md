@@ -9,7 +9,6 @@
 ![Query Tool](https://raw.githubusercontent.com/webdevRoman/gitImages/master/VSK/vsk-test-2.png)
 5. Запустите скрипт из файла `db.sql` (из скачанного с GitHub репозитория):
 ![SQL script start](https://raw.githubusercontent.com/webdevRoman/gitImages/master/VSK/vsk-test-3.png)
-!!! сделать скрин !!!
 6. Установите OpenServer (https://ospanel.io/download/).
 7. Установите composer в OpenServer (http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/).
 8. В папке `domains` в OpenServer создайте новую папку и переместите в нее все скачанные с GitHub файлы.
